@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mihir Kulkarni</title>
+    <link>https://mihirk11.github.io/</link>
+    <description>Recent content on Mihir Kulkarni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 09 May 2020 18:16:13 -0700</lastBuildDate><atom:link href="https://mihirk11.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://mihirk11.github.io/projects/</link>
+      <pubDate>Fri, 14 Apr 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://mihirk11.github.io/projects/</guid>
+      <description>Here are some of my projects:
+ShareCSV  ShareCSV is a tool that allows you to share your CSV files and run SQL queries on them right in your browser for free. No external compute needed.
+ Multiplication Tables for kids  Write multiplication tables and get instant feeback on your answers.
+ Sierpinski Triangle  Complex pattern emerges from simple rules and randomness.
+ Random book finder  Find a random book by generating ISBNs</description>
+    </item>
+    
+    <item>
+      <title>Caching Aws Credentials With Guava</title>
+      <link>https://mihirk11.github.io/posts/caching-aws-credentials-with-guava/</link>
+      <pubDate>Sat, 09 May 2020 18:16:13 -0700</pubDate>
+      
+      <guid>https://mihirk11.github.io/posts/caching-aws-credentials-with-guava/</guid>
+      <description>If you work with AWS temporary credentials at a production scale, at some point you risk being throttled by AWS because you are generating too many requests. The risk becomes even more prominent as AWS does not mention when it will start throttling you or the scope of throttling. This leaves the developers wondering if AWS is going to deny requests from a particular session, user or the entire account.</description>
+    </item>
+    
+  </channel>
+</rss>

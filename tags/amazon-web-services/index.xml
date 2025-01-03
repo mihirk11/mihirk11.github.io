@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon Web Services on Mihir Kulkarni</title>
+    <link>https://mihirk11.github.io/tags/amazon-web-services/</link>
+    <description>Recent content in Amazon Web Services on Mihir Kulkarni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 09 May 2020 18:16:13 -0700</lastBuildDate><atom:link href="https://mihirk11.github.io/tags/amazon-web-services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caching Aws Credentials With Guava</title>
+      <link>https://mihirk11.github.io/posts/caching-aws-credentials-with-guava/</link>
+      <pubDate>Sat, 09 May 2020 18:16:13 -0700</pubDate>
+      
+      <guid>https://mihirk11.github.io/posts/caching-aws-credentials-with-guava/</guid>
+      <description>If you work with AWS temporary credentials at a production scale, at some point you risk being throttled by AWS because you are generating too many requests. The risk becomes even more prominent as AWS does not mention when it will start throttling you or the scope of throttling. This leaves the developers wondering if AWS is going to deny requests from a particular session, user or the entire account.</description>
+    </item>
+    
+  </channel>
+</rss>
